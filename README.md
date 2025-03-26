@@ -1,3 +1,4 @@
-Репозиторий для выполнения задания для пересдачи .NET Backend  
-Ссылка на документ https://docs.google.com/document/d/1JNHWTMJqvdi0q1hHsJbCVNwC2nhJ_t4AEAaIj1iYdVE/edit  
-Ссылка на задание в Google Classroom https://classroom.google.com/c/NzA5MTk3NzYzNTQ2/a/NzI0ODQ1NTYxNjU3/details
+Проект написан на .NET backend разработки. Мой индивидуальный проект. В данном проекте реализована система кампусных курсов (факультативы для студентов). 
+Используемая диаграмма классов:  
+![Image alt](https://github.com/4rsess/.NET_CampusCourses/blob/main/CampusCourses.NET/photo/CampusCourses.png)
+В системе реализована авторизация и работа с API по JWT токену, а также полное подключение и настройка Swagger’а. Проработана валидация данных для всех запросов. Использовал базу данных Entity Framework.
